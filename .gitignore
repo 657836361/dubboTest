@@ -1,1 +1,4 @@
 /.idea
+/service-consumer/*.iml
+/service-interface/*.iml
+/service-provider/*.iml
